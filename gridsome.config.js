@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  siteUrl: 'https://github.com/peipeichang/self.git',
+  
   
   plugins: [
     {
